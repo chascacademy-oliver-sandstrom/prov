@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.6.0",
+    "typescript": "^5.2.2",
+    "zod": "^3.22.4"
+  },
+  "name": "typescript-prov-fjs22-main",
+  "description": "**Tid 9.30 - 12.00 torsdag 2 november i sal 5.**",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
